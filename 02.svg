@@ -4,7 +4,6 @@
 <div xmlns="http://www.w3.org/1999/xhtml">
 <style>
  .bg {
-	 background-color: black;
 	 height: 100vh;
 	 display: grid;
 	 grid-template: repeat(20, 1fr) / repeat(20, 1fr);
