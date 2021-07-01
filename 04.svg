@@ -9,7 +9,6 @@
 	 box-sizing: border-box;
 }
  .bg {
-	 background-color: black;
 	 height: 100vh;
 	 display: grid;
 	 grid-template: 100% / 3fr repeat(54, 1fr) 3fr;
