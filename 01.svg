@@ -3,6 +3,13 @@
 <foreignObject width="100%" height="100%">
 <div xmlns="http://www.w3.org/1999/xhtml">
 <style>
+ .bg {
+	 background-color: black;
+	 height: 100vh;
+	 display: grid;
+	 grid-template: repeat(20, 1fr) / repeat(20, 1fr);
+	 overflow: hidden;
+}
  .cell {
 	 width: 100%;
 	 height: 100%;
@@ -215,6 +222,7 @@
 	}
 }
 </style>
+<div class="bg">
 <div class="cell"></div>
 <div class="cell"></div>
 <div class="cell"></div>
@@ -453,6 +461,7 @@
   <div class="css">MILR</div>
   <div class="css">MILR</div>
   <div class="css">MILR</div>
+</div>
 </div>
 </div>
 </foreignObject>
