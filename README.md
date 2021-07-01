@@ -1,4 +1,4 @@
-# How To Pimp Your GitHub
+# <img src="https://raw.githubusercontent.com/BlackPhlox/How-To-Pimp-Your-GitHub/master/05.svg?token=AF7VVOCABXX7RNUCZP2KN23A456XM"> How To Pimp Your GitHub
 
 So, GitHub has svg support.</br> 
 
