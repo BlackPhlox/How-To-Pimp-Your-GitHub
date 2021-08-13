@@ -23,7 +23,6 @@ Here's how to:
 
       <style>
         /* Put your CSS here. */
-        /* Note :hover is not supported when displaying svgs on github only when shown in raw */
       </style>
 
       <!-- Put your HTML here -->
@@ -32,3 +31,7 @@ Here's how to:
   </foreignObject>
 </svg>
 ```
+# Things you can't do:
+
+- Interactions from svgs is not supported on github, so `:hover` only works when shown in raw
+- You can't do `<script>` for obvious reasons you silly [cookiemonster](https://github.com/BlackPhlox/CookieMonster).
